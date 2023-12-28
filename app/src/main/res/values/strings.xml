@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="a_vidhan_reddy">A Vidhan Reddy</string>
+    <string name="vidhan_dev_android_com">vidhan.dev@android.com</string>
+    <string name="itsdevvidhan">\@itsDevVidhan</string>
+    <string name="ph_no">+91 12355 45565</string>
+</resources>

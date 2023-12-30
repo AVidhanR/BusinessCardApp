@@ -140,7 +140,7 @@ fun LowerEssentials(painter: Painter,data: String) {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun BusinessCardPreview() {
     BusinessCardTheme {
         BusinessCardApp()
     }
